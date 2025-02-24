@@ -1,2 +1,2 @@
-# python_tutor_materials
-Matirials for tutering python basics
+# Python Tutor Materials
+Matirials for tutering Python basics
