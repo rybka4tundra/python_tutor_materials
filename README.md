@@ -1,2 +1,2 @@
-# Python Tutor Materials
-Matirials for tutering Python basics
+# Материалы для обучения школьников основам Python
+Банк тестов, заданий и решений, представленных в формате Markdown
